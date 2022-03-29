@@ -71,20 +71,36 @@ url = "https://www.amazon.in/Redmi-Storage-Display-Qualcomm%C2%AE-SnapdragonTM/p
 
 So, with this, we will get started with writing our own code for Redmi note 11 Customer Reviews on Amazon website
 
+![1](https://user-images.githubusercontent.com/99526815/160623602-c975d845-965f-4ff3-9728-962ed22ce547.PNG)
+
+
 Use urlopen to open the url and read the details in it.
 
 Get the Name of the produt:
 
+
+
 Get the Customer Name:
+
+![3](https://user-images.githubusercontent.com/99526815/160623761-51f90b88-9c21-490d-8bd5-588de7f61326.PNG)
 
 Get the Customer Reviews for produt:
 
+![4](https://user-images.githubusercontent.com/99526815/160623825-aca96f89-4e3d-4d63-81b0-090943aa7cf8.PNG)
+
+![5](https://user-images.githubusercontent.com/99526815/160623903-f43921cc-6a2d-4b3a-91b9-ee9f1051f5f3.PNG)
+
 Get the Ratings for the produt:
 
+![6](https://user-images.githubusercontent.com/99526815/160623969-cc68f4b2-899d-44cf-b8c4-1bc2b2468f8a.PNG)
+
+![7](https://user-images.githubusercontent.com/99526815/160624032-d2b1ae25-d154-4859-8ac1-e88113a6bec9.PNG)
+
+![8](https://user-images.githubusercontent.com/99526815/160624069-33c86039-2986-485d-819e-0b5933287f84.PNG)
 
 ## Conclusion:
 
-This are the top reviews from the customers.
+This are the reviews from the customers.
 
 
 
